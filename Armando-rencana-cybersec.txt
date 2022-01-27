@@ -4,6 +4,7 @@ RENCANA CYBERSEC ARMANDO
 -Networking
 * OSI layer
  ^ Aplication layer
+ ^ Presentation layer
 * SSH remote
 - Bug bounty hunter
   ^Capture the flag
