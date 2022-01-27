@@ -1,0 +1,6 @@
+RENCANA CYBERSEC ARMANDO
+
+-Linux
+-Networking
+-Python
+-Web penetration
