@@ -3,8 +3,11 @@ RENCANA CYBERSEC ARMANDO
 -Linux
 -Networking
 * OSI layer
+  ^Physical layer
+  ^aplication layer
 * SSH remote
 - Bug bounty hunter
+  ^ Capture the flag
 -Python
--Web penetration
+
 
