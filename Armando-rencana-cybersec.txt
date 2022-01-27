@@ -1,0 +1,8 @@
+RENCANA CYBERSEC ARMANDO
+
+-Linux
+-Networking
+* OSI layer
+* SSH remote
+-Python
+-Web penetration
